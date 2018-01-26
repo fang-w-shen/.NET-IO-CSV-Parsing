@@ -2,4 +2,7 @@
 
 DirectoryInfo
 Path.Combine
-ReadFile
+Deserialization
+ReadFile CSV
+JSON Parsing
+Serialization of Top 10 Players

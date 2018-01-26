@@ -1,0 +1,11 @@
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\bin\Debug\netcoreapp2.0\CSV-JSON-Parse.deps.json
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\bin\Debug\netcoreapp2.0\CSV-JSON-Parse.runtimeconfig.json
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\bin\Debug\netcoreapp2.0\CSV-JSON-Parse.runtimeconfig.dev.json
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\bin\Debug\netcoreapp2.0\CSV-JSON-Parse.dll
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\obj\Debug\netcoreapp2.0\CSV-JSON-Parse.csprojResolveAssemblyReference.cache
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\obj\Debug\netcoreapp2.0\CSV-JSON-Parse.csproj.CoreCompileInputs.cache
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\obj\Debug\netcoreapp2.0\CSV-JSON-Parse.AssemblyInfoInputs.cache
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\obj\Debug\netcoreapp2.0\CSV-JSON-Parse.AssemblyInfo.cs
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\bin\Debug\netcoreapp2.0\CSV-JSON-Parse.pdb
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\obj\Debug\netcoreapp2.0\CSV-JSON-Parse.dll
+C:\Users\funka\workspace\csharp\stream_data_IOprocessing\obj\Debug\netcoreapp2.0\CSV-JSON-Parse.pdb
