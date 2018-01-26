@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-data",
+      "appliesTo": "data.txt",
+      "type": "launch"
+    }
+  ]
+}
