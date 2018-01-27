@@ -48,7 +48,7 @@ namespace SoccerStats
 				foreach (var result in newsResults)
 				{
 
-					Console.WriteLine(string.Format("Sentiment Score: {3}, Date: {0}, Headline {1}, Summary {2} \r\n", result.DatePublished, result.Headline, result.Summary, result.SentimentScore));
+					Console.WriteLine(string.Format("Sentiment Score: {3:p}, Date: {0}, Headline {1}, Summary {2} \r\n", result.DatePublished, result.Headline, result.Summary, result.SentimentScore));
 				}
 				Console.ReadKey();
 			}
